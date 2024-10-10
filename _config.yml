@@ -147,7 +147,7 @@ contents:
           intro: "所有的标签"
           icon: "fa fa-tags"
         - title: "img host"
-          url: "https://images.alanzeng.com"
+          url: https://images.alanzeng.com
           intro: "图床"
           icon: "fa fa-image"
         - title: "resume"
