@@ -76,7 +76,7 @@ comments:
         # Show footer copyright information
         copyright: true
     commentjs:
-        enable: true
+        enable: false
         # 评论后端的站点（目前仅支持GitHub）
         # The site of comments backend(only support GitHub)
         type: github
@@ -120,10 +120,10 @@ comments:
         # Full screen mask effect similar to Facebook comment box
         distractionFreeMode: true
     disqus:
-        enable: false
+        enable: true
         # 评论后端的简称
         # Short name of comments backend
-        shortName:
+        shortName: alanzeng
 
 # 网站内容设置
 # Webiste contents settings
@@ -165,6 +165,14 @@ contents:
           # 图标
           # Shape of icon
           icon: "fa fa-globe"
+        - title: "My Email"
+          url: mailto:me@alanzeng.com
+          intro: "My Email."
+          icon: "fa fa-envelope"
+        - title: "My Twitter"
+          url: http://www.twitter.com/Alan92423
+          intro: "My Twitter account."
+          icon: "fa fa-twitter"
     # 网站的关于
     # Website's about
     about:
