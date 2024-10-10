@@ -147,7 +147,7 @@ contents:
           intro: "所有的标签"
           icon: "fa fa-tags"
         - title: "img host"
-          url: https://images.alanzeng.com
+          url: "https://images.alanzeng.com/"
           intro: "图床"
           icon: "fa fa-image"
         - title: "resume"
@@ -243,7 +243,7 @@ contents:
               icon: "fa fa-envelope"
               colorBg: "btn-success"
             - title: "My Twitter"
-              url: http://www.twitter.com/Alan92423
+              url: "http://www.twitter.com/Alan92423"
               intro: "My Twitter account."
               icon: "fa fa-twitter"
         # 时间线
