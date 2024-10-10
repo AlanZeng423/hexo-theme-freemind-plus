@@ -178,7 +178,7 @@ contents:
           intro: "My Twitter account."
           icon: "fa fa-twitter"
         - title: "GitHub"
-          url: "https://github.com/alanzeng423""
+          url: "https://github.com/alanzeng423"
           intro: "My GitHub."
           icon: "fa fa-github-alt"
         - title: "图床ImgHost"
