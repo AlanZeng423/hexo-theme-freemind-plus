@@ -146,10 +146,6 @@ contents:
           url: "tags/"
           intro: "所有的标签"
           icon: "fa fa-tags"
-        - title: "img host"
-          url: "https://images.alanzeng.com/"
-          intro: "图床"
-          icon: "fa fa-image"
         - title: "resume"
           url: "resume/"
           intro: "简历"
@@ -166,7 +162,7 @@ contents:
         - title: "Alan's Site"
           # 网址
           # Website's url
-          url: "https://site.alanzeng.com"
+          url: "https://alanzeng.com"
           # 简介
           # Brief introduction
           intro: "AlanZeng的个人网站"
@@ -181,6 +177,16 @@ contents:
           url: http://www.twitter.com/Alan92423
           intro: "My Twitter account."
           icon: "fa fa-twitter"
+        - title: "GitHub"
+          url: "https://github.com/alanzeng423""
+          intro: "My GitHub."
+          icon: "fa fa-github-alt"
+        - title: "图床ImgHost"
+          url: "https://images.alanzeng.com/"
+          intro: "图床"
+          icon: "fa fa-image"
+
+
     # 网站的关于
     # Website's about
     about:
