@@ -7,10 +7,10 @@ analytics:
         # Site ID
         siteid:
     google:
-        enable: false
+        enable: true
         # 站点标识
         # Site ID
-        siteid:
+        siteid: G-5721WYPZLT
 
 # 网站外观设置
 # Website appearance settings
