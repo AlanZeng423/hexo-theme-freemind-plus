@@ -30,7 +30,7 @@ appearance:
     # Theme style(bootstrap, cerulean, cosmo, cyborg, darkly, flatly, journal,
     # lumen, paper, readable, sandstone, simplex, slate, spacelab, superhero,
     # united, yeti)
-    theme: bootstrap
+    theme: cerulean
 
 # 网站文章设置
 # Website article settings
