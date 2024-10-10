@@ -20,7 +20,7 @@ appearance:
     fancybox: true
     # 网站图标
     # Favicon
-    favicon: xxx.ico
+    favicon: favicon.ico
     # 主题反向配色
     # Theme inverse color
     inverse: true
@@ -46,7 +46,7 @@ article:
 # Website comments settings
 comments:
     waline:
-        enable: true
+        enable: false
         # Waline服务端地址
         # Waline server URL
         serverURL: "https://xxx.vercel.app"
@@ -76,22 +76,22 @@ comments:
         # Show footer copyright information
         copyright: true
     commentjs:
-        enable: false
+        enable: true
         # 评论后端的站点（目前仅支持GitHub）
         # The site of comments backend(only support GitHub)
         type: github
         # GitHub用户名称
         # GitHub user's name
-        user: xxx
+        user: alanzeng423
         # GitHub仓库名称（不是仓库地址）
         # GitHub repository's name(not repository's address)
-        repo: "xxx"
+        repo: "comments"
         # GitHub应用客户端标识
         # GitHub application client id
-        clientID: xxx
+        clientID: Ov23liQkU2QwLNFCH3jk
         # GitHub应用客户端密钥
         # GitHub application client secret
-        clientSecret: xxx
+        clientSecret: 8fc0135e532e7f573142de48f26b2581331f743d
         # 最近评论显示的条数
         # The number of recent comments
         count: 10
@@ -130,23 +130,23 @@ comments:
 contents:
     # 网站的标语
     # Website's slogan
-    slogan: "xxx"
+    slogan: "Life is a journey."
     # 网站的菜单
     # Website's menu
     menu:
-        - title: "归档"
+        - title: "archives"
           url: "archives/"
           intro: "所有的文章"
           icon: "fa fa-archive"
-        - title: "分类"
+        - title: "categories"
           url: "categories/"
           intro: "所有的分类"
           icon: "fa fa-folder"
-        - title: "标签"
+        - title: "tags"
           url: "tags/"
           intro: "所有的标签"
           icon: "fa fa-tags"
-        - title: "关于"
+        - title: "about me"
           url: "about/"
           intro: "关于"
           icon: "fa fa-user"
@@ -155,13 +155,13 @@ contents:
     links:
           # 标题
           # Title
-        - title: "myyerrol的个人网站"
+        - title: "Alan's Site"
           # 网址
           # Website's url
-          url: "https://myyerrol.github.io"
+          url: "https://site.alanzeng.com"
           # 简介
           # Brief introduction
-          intro: "myyerrol的个人网站"
+          intro: "AlanZeng的个人网站"
           # 图标
           # Shape of icon
           icon: "fa fa-globe"
@@ -170,10 +170,10 @@ contents:
     about:
         # 关于中的介绍A（支持Markdown语法）
         # Introduction A in aboout(support Markdown syntax)
-        introA: "嗨！我叫**xxx**，昵称为**xxx。**"
+        introA: "# Hi, I'm Alan Zeng, welcome to my site."
         # 关于中的介绍B（支持Markdown语法）
         # Introduction B in aboout(support Markdown syntax)
-        introB: "我是一个崇尚开源精神的**创客**，欢迎访问我的<a href='https://github.com/xxx' title='xxx的GitHub' target='_blank'>GitHub</a>主页进行查看。"
+        # introB: "我是一个崇尚开源精神的**创客**，欢迎访问我的<a href='https://github.com/xxx' title='xxx的GitHub' target='_blank'>GitHub</a>主页进行查看。"
         # 已解锁的技能
         # Unlocked skills
         skillDone100:
@@ -192,35 +192,44 @@ contents:
         social:
               # 标题
               # Title
-            - title: "项目"
+            - title: "GitHub"
               # 网址
               # Website's url
-              url: "https://github.com/xxx"
+              url: "https://github.com/alanzeng423"
               # 简介
               # Brief introduction
-              intro: "我的GitHub"
+              intro: "GitHub"
               # 图标形状
               # Shape of icon
               icon: "fa fa-github-alt"
               # 图标背景
               # Background color of icon
               colorBg: "btn-default"
-            - title: "知乎"
-              url: "https://www.zhihu.com/people/xxx"
-              intro: "我的知乎"
-              icon: "fa fa-link"
-              colorBg: "btn-primary"
-            - title: "B站"
-              url: "https://space.bilibili.com/xxx"
-              intro: "我的B站"
-              icon: "fa fa-video-camera"
-              colorBg: "hotpink"
-              colorFt: "white"
-            - title: "邮箱"
-              url: "mailto:xxx@xxx.com"
-              intro: "我的邮箱"
+            # - title: "知乎"
+            #   url: "https://www.zhihu.com/people/xxx"
+            #   intro: "我的知乎"
+            #   icon: "fa fa-link"
+            #   colorBg: "btn-primary"
+            # - title: "B站"
+            #   url: "https://space.bilibili.com/xxx"
+            #   intro: "我的B站"
+            #   icon: "fa fa-video-camera"
+            #   colorBg: "hotpink"
+            #   colorFt: "white"
+            # - title: "邮箱"
+            #   url: "mailto:xxx@xxx.com"
+            #   intro: "我的邮箱"
+            #   icon: "fa fa-envelope"
+            #   colorBg: "btn-success"
+            - title: "My Email"
+              url: mailto:me@alanzeng.com
+              intro: "My Email."
               icon: "fa fa-envelope"
               colorBg: "btn-success"
+            - title: "My Twitter"
+              url: http://www.twitter.com/Alan92423
+              intro: "My Twitter account."
+              icon: "fa fa-twitter"
         # 时间线
         # Timeline
         timeline:
