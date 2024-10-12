@@ -252,6 +252,11 @@ contents:
               url: "http://www.twitter.com/Alan92423"
               intro: "My Twitter account."
               icon: "fa fa-twitter"
+            - title: "Instagram"
+              url: "https://www.instagram.com/alan42326/"
+              intro: "My Instagram."
+              icon: "fa fa-instagram"
+              colorBg: "btn-danger"
         # 时间线
         # Timeline
         timeline:
@@ -266,14 +271,13 @@ contents:
               date: "刚才"
               # 内容（支持Markdown语法）
               # Content(support Markdown syntax)
-              content: "$> 正在编写代码。。。"
-            - date: "xxx年"
+              content: "正在编写代码... 以及享受生活"
+            - date: "2024年"
             - icon: "fa fa-globe"
               colorBg: "#CD3700"
               date:
-                  - "xxxx年xx月xx日"
-                  - "xxxx年xx月xx日"
-              content: "xxx"
+                  - "2024年10月3日"
+              content: "成功保研, 获得复旦大学待录取通知"
 
 # 网站推送设置
 # Website push settings
