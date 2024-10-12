@@ -192,9 +192,10 @@ contents:
     about:
         # 关于中的介绍A（支持Markdown语法）
         # Introduction A in aboout(support Markdown syntax)
-        introA: "# Hi, I'm Alan Zeng, welcome to my site."
+        introA: "Hi, I'm Alan Zeng, welcome to my site."
         # 关于中的介绍B（支持Markdown语法）
         # Introduction B in aboout(support Markdown syntax)
+        introB: "你好，我是Alan，欢迎来到我的个人网站。"
         # introB: "我是一个崇尚开源精神的**创客**，欢迎访问我的<a href='https://github.com/xxx' title='xxx的GitHub' target='_blank'>GitHub</a>主页进行查看。"
         # 已解锁的技能
         # Unlocked skills
@@ -273,17 +274,22 @@ contents:
               # Content(support Markdown syntax)
               content: "正在编写代码... 以及享受生活"
             - date: "2024年"
-            - icon: "fa fa-globe"
+            - icon: "fa fa-graduation-cap"
               colorBg: "#CD3700"
               date:
                   - "2024年10月3日"
               content: "成功保研, 获得复旦大学待录取通知"
             - date: "2023年"
-            - icon: "fa fa-graduation-cap"
+            - icon: "fa fa-globe"
               colorBg: "#CD3700"
               date:
                   - "2023年6月"
-              content: ""
+              content: "2"
+            - icon: "fa fa-lightbulb-o"
+              colorBg: "gold"
+              date: "2023年"
+              content: "1"
+            - date: "2022年"
 
 # 网站推送设置
 # Website push settings
