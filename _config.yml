@@ -278,6 +278,12 @@ contents:
               date:
                   - "2024年10月3日"
               content: "成功保研, 获得复旦大学待录取通知"
+            - date: "2023年"
+            - icon: "fa fa-graduation-cap"
+              colorBg: "#CD3700"
+              date:
+                  - "2023年6月"
+              content: ""
 
 # 网站推送设置
 # Website push settings
