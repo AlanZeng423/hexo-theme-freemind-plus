@@ -276,20 +276,23 @@ contents:
             - date: "2024年"
             - icon: "fa fa-graduation-cap"
               colorBg: "#CD3700"
-              date:
-                  - "2024年10月3日"
+              date: "2024年10月3日"
               content: "成功保研, 获得复旦大学待录取通知"
             - date: "2023年"
             - icon: "fa fa-globe"
               colorBg: "#CD3700"
-              date:
-                  - "2023年6月"
+              date: "2023年6月"
               content: "2"
             - icon: "fa fa-lightbulb-o"
               colorBg: "gold"
               date: "2023年"
               content: "1"
             - date: "2022年"
+            - date: "更早"
+            - icon: "fa fa-lightbulb-o"
+              colorBg: "gold"
+              date: "2003年9月"
+              content: "出生, Born in 2003"
 
 # 网站推送设置
 # Website push settings
