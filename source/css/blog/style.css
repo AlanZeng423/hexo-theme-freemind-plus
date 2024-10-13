@@ -471,8 +471,8 @@ td {
     font-family: "Calibri", "Arial", "Microsoft YaHei", "黑体";
 }
 /* edited */
-.about-info-content span, .about-info-content a {
-    font-family: "Calibri", "Arial", "Microsoft YaHei", "黑体";
+.about-info-content span {
+    font-family: inherit;
   } 
 /* edited */
 .about-info-content button {
