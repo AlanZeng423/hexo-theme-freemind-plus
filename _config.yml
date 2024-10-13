@@ -224,7 +224,7 @@ contents:
               intro: "GitHub"
               # 图标形状
               # Shape of icon
-              icon: "fa-brands fa-github"
+              icon: "fa fa-github"
               # 图标背景
               # Background color of icon
               colorBg: "btn-default"
@@ -247,16 +247,16 @@ contents:
             - title: "My Email"
               url: mailto:me@alanzeng.com
               intro: "My Email."
-              icon: "fa-regular fa-envelope"
+              icon: "fa fa-envelope"
               colorBg: "btn-success"
             - title: "My Twitter"
               url: "http://www.twitter.com/Alan92423"
               intro: "My Twitter account."
-              icon: "fa-brands fa-twitter"
+              icon: "fa fa-twitter"
             - title: "Instagram"
               url: "https://www.instagram.com/alan42326/"
               intro: "My Instagram."
-              icon: "fa-brands fa-instagram"
+              icon: "fa fa-instagram"
               colorBg: "btn-danger"
         # 时间线
         # Timeline
