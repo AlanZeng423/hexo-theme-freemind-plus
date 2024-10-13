@@ -470,6 +470,11 @@ td {
     padding-left: 25px;
     font-family: "Calibri", "Arial", "Microsoft YaHei", "黑体";
 }
+/* edited */
+.about-info-content span, .about-info-content a {
+    font-family: "Calibri", "Arial", "Microsoft YaHei", "黑体";
+  } 
+/* edited */
 .about-info-content button {
     margin-bottom: 3px;
     -webkit-transition: all .2s linear;
