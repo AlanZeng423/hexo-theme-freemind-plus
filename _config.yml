@@ -173,18 +173,32 @@ contents:
           url: mailto:me@alanzeng.com
           intro: "My Email."
           icon: "fa fa-envelope"
-        - title: "My Twitter"
-          url: http://www.twitter.com/Alan92423
-          intro: "My Twitter account."
-          icon: "fa fa-twitter"
         - title: "GitHub"
           url: "https://github.com/alanzeng423"
           intro: "My GitHub."
-          icon: "fa fa-github-alt"
-        - title: "图床ImgHost"
+          icon: "fa-brands fa-github"
+        - title: "在线图床ImgHost"
           url: "https://images.alanzeng.com/"
           intro: "图床"
           icon: "fa fa-image"
+        - title: "My Twitter"
+          url: http://www.twitter.com/Alan92423
+          intro: "My Twitter account."
+          icon: "fa-brands fa-twitter"
+        - title: "My Instagram"
+          url: https://www.instagram.com/alan42326/
+          intro: "My Instagram."
+          icon: "fa-brands fa-instagram"
+        - title: "知乎-Zhihu"
+          url: https://www.zhihu.com/people/fan-yi-li-58
+          intro: "我的知乎"
+          icon: "fa-brands fa-zhihu"
+        - title: "My LinkedIn"
+          url: https://www.linkedin.com/in/alan-zeng-281513315/
+          intro: "My LinkedIn."
+          icon: "fa-brands fa-linkedin"
+        
+        
 
 
     # 网站的关于
