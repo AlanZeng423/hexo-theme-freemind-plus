@@ -224,10 +224,24 @@ contents:
               intro: "GitHub"
               # 图标形状
               # Shape of icon
-              icon: "fa fa-github"
+              icon: "fa-brands fa-github"
               # 图标背景
               # Background color of icon
               colorBg: "btn-default"
+            - title: "My Email"
+              url: mailto:me@alanzeng.com
+              intro: "My Email."
+              icon: "fa fa-envelope"
+              colorBg: "btn-success"
+            - title: "My Twitter"
+              url: "http://www.twitter.com/Alan92423"
+              intro: "My Twitter account."
+              icon: "fa-brands fa-twitter"
+            - title: "Instagram"
+              url: "https://www.instagram.com/alan42326/"
+              intro: "My Instagram."
+              icon: "fa-brands fa-instagram"
+              colorBg: "btn-danger"
             # - title: "知乎"
             #   url: "https://www.zhihu.com/people/xxx"
             #   intro: "我的知乎"
@@ -244,26 +258,13 @@ contents:
             #   intro: "我的邮箱"
             #   icon: "fa fa-envelope"
             #   colorBg: "btn-success"
-            - title: "My Email"
-              url: mailto:me@alanzeng.com
-              intro: "My Email."
-              icon: "fa fa-envelope"
-              colorBg: "btn-success"
-            - title: "My Twitter"
-              url: "http://www.twitter.com/Alan92423"
-              intro: "My Twitter account."
-              icon: "fa fa-twitter"
-            - title: "Instagram"
-              url: "https://www.instagram.com/alan42326/"
-              intro: "My Instagram."
-              icon: "fa fa-instagram"
-              colorBg: "btn-danger"
+            
         # 时间线
         # Timeline
         timeline:
               # 图标形状
               # Shape of icon
-            - icon: "fa fa-lightbulb-o"
+            - icon: "far fa-lightbulb"
               # 图标背景
               # Background color of icon
               colorBg: "gold"
