@@ -25,7 +25,7 @@ appearance:
     # Theme inverse color
     inverse: true
     # 主题样式（包含有bootstrap、cerulean、cosmo、cyborg、darkly、flatly、journal、
-    theme: spacelab
+    theme: bootstrap
     # lumen、paper、readable、sandstone、simplex、slate、spacelab、superhero、
     # united、yeti）
     # Theme style(bootstrap, cerulean, cosmo, cyborg, darkly, flatly, journal,
