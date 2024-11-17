@@ -190,11 +190,11 @@ contents:
           url: https://www.instagram.com/alan42326/
           intro: "My Instagram."
           icon: "fa-brands fa-instagram"
-        - title: "知乎-Zhihu"
+        - title: "Zhihu"
           url: https://www.zhihu.com/people/fan-yi-li-58
           intro: "我的知乎"
           icon: "fa-brands fa-zhihu"
-        - title: "My LinkedIn"
+        - title: "LinkedIn"
           url: https://www.linkedin.com/in/alan-zeng-281513315/
           intro: "My LinkedIn."
           icon: "fa-brands fa-linkedin"
