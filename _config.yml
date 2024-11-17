@@ -170,23 +170,23 @@ contents:
           # 图标
           # Shape of icon
           icon: "fa fa-globe"
-        - title: "My Email"
+        - title: "Personal Email"
           url: mailto:me@alanzeng.com
+          intro: "My Email."
+          icon: "fa fa-envelope"
+        - title: "Work Email"
+          url: mailto:alanzeng@tju.edu.cn
           intro: "My Email."
           icon: "fa fa-envelope"
         - title: "GitHub"
           url: "https://github.com/alanzeng423"
           intro: "My GitHub."
           icon: "fa-brands fa-github"
-        - title: "在线图床ImgHost"
-          url: "https://images.alanzeng.com/"
-          intro: "图床"
-          icon: "fa fa-image"
-        - title: "My Twitter"
+        - title: "Twitter"
           url: http://www.twitter.com/Alan92423
           intro: "My Twitter account."
           icon: "fa-brands fa-twitter"
-        - title: "My Instagram"
+        - title: "Instagram"
           url: https://www.instagram.com/alan42326/
           intro: "My Instagram."
           icon: "fa-brands fa-instagram"
@@ -257,7 +257,7 @@ contents:
               intro: "My Instagram."
               icon: "fa-brands fa-instagram"
               colorBg: "btn-danger"
-            - title: "知乎-Zhihu"
+            - title: "Zhihu"
               url: "https://www.zhihu.com/people/fan-yi-li-58"
               intro: "我的知乎"
               icon: "fa-brands fa-zhihu"
