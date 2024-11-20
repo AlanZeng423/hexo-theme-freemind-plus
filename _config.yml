@@ -290,6 +290,10 @@ contents:
               # Content(support Markdown syntax)
               content: "正在编写代码... 以及享受生活"
             - date: "2024年"
+            - icon: "fa-brands fa-plane"
+              colorBg: "#FF5733"
+              date: "2024年10月29日"
+              content: "前往法国巴黎, 开始欧洲之旅 <br> 旅行日志: [欧洲旅行记录](https://alanzeng.com/blogs/24849/)"
             - icon: "fa-brands fa-safari"
               date: "2024年10月9日"
               content: "将网站架构由`jekyll`迁移到`hexo`, 使用[freemind](https://github.com/wzpan/hexo-theme-freemind)主题(参考[freemind-plus](https://github.com/myyerrol/hexo-theme-freemind-plus))"
