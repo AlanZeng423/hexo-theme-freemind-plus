@@ -560,7 +560,7 @@ td {
 
 
 /* add for code block */
-.copy-btn {
+/* .copy-btn {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -572,12 +572,12 @@ td {
     border-radius: 4px;
     cursor: pointer;
     z-index: 10;
-  }
-  
-  .copy-btn:hover {
+}
+
+.copy-btn:hover {
     background: #0056b3;
-  }
-  
-  .copy-btn:active {
+}
+
+.copy-btn:active {
     background: #003d80;
-  }
+} */
