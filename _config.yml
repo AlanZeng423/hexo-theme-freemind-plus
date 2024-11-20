@@ -290,7 +290,7 @@ contents:
               # Content(support Markdown syntax)
               content: "正在编写代码... 以及享受生活"
             - date: "2024年"
-            - icon: "fa-brands fa-plane"
+            - icon: "fa-regular fa-plane"
               colorBg: "#FF5733"
               date: "2024年10月29日"
               content: "前往法国巴黎, 开始欧洲之旅 <br> 旅行日志: [欧洲旅行记录](https://alanzeng.com/blogs/24849/)"
