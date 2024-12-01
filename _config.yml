@@ -172,7 +172,7 @@ contents:
           icon: "fa fa-globe"
         - title: "Alan's ChatBot"
           url: "https://chat.anovare.com"
-          intro: "AlanZeng的聊天机器人"
+          intro: "Alan的聊天机器人"
           icon: "fa fa-robot"
         - title: "Personal Email"
           url: mailto:me@alanzeng.com
