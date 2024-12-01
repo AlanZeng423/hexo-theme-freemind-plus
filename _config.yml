@@ -170,9 +170,9 @@ contents:
           # 图标
           # Shape of icon
           icon: "fa fa-globe"
-        - title: "Alan's ChatBot"
+        - title: "Alan's AI ChatBot"
           url: "https://chat.anovare.com"
-          intro: "Alan的聊天机器人"
+          intro: "Alan的AI聊天机器人"
           icon: "fa fa-robot"
         - title: "Personal Email"
           url: mailto:me@alanzeng.com
@@ -219,16 +219,18 @@ contents:
         # 已解锁的技能
         # Unlocked skills
         skillDone100:
-            - xxx
-            - yyy
+            - javascript
+            - python
+            - java
+
         # 已了解的技能
         # Learned skills
         skillDone075:
-            - zzz
+            - 
         # 正解锁的技能
         # Skills being unlocked
         skillDone050:
-            - zzz
+            - swift
         # 社交信息
         # Social information
         social:
@@ -292,35 +294,44 @@ contents:
               date: "刚才"
               # 内容（支持Markdown语法）
               # Content(support Markdown syntax)
-              content: "正在编写代码... 以及享受生活"
-            - date: "2024年"
+              content: "Coding, and enjoying life. <br> 正在编写代码... 以及享受生活"
+            - date: "2024"
             - icon: "fa-regular fa-plane"
               colorBg: "#FF5733"
-              date: "2024年10月29日"
+              date: "2024-10-29"
               content: "前往法国巴黎, 开始欧洲之旅 <br> 旅行日志: [欧洲旅行记录](https://alanzeng.com/blogs/24849/)"
             - icon: "fa-brands fa-safari"
-              date: "2024年10月9日"
+              date: "2024-10-09"
               content: "将网站架构由`jekyll`迁移到`hexo`, 使用[freemind](https://github.com/wzpan/hexo-theme-freemind)主题(参考[freemind-plus](https://github.com/myyerrol/hexo-theme-freemind-plus))"
             - icon: "fa fa-graduation-cap"
               colorBg: "#CD3700"
-              date: "2024年10月3日"
+              date: "2024-10-03"
               content: "成功保研, 获得[复旦大学](https://www.fudan.edu.cn/)待录取通知"
             - icon: "fa-brands fa-leanpub"
               colorBg: "#CD3700"
-              date: "2024年9月13日"
+              date: "2024-09-13"
               content: "首次参加GRE考试"
             - icon: "fa-brands fa-safari"
-              date: "2024年7月"
+              date: "2024-07"
               content: "使用`github pages`搭建个人网站"
+            - icon: "fa-regular fa-plane"
+              colorBg: "#FF5733"
+              date: "2024-01-15"
+              content: "前往日本大阪、奈良、京都、箱根和东京等地旅行"
 
-            - date: "2023年"
+            - date: "2023"
+
             - icon: "fa-brands fa-leanpub"
               colorBg: "#CD3700"
-              date: "2023年9月1日"
-              content: "首次参加TOEFL考试"
+              date: "2023-09-01"
+              content: "参加TOEFL考试, 成绩95"
+            - icon: "fa-regular fa-plane"
+              colorBg: "#FF5733"
+              date: "2023-08-11"
+              content: "和家人一同前往青海西宁，开启西北大环线自驾之旅"
             - icon: "fa-regular fa-building"
               colorBg: "blue"
-              date: "2023年"
+              date: "2023-04 ~ 2023-07"
               content: "在NCS作为AI实习生进行实习, 实习内容为基于`RAG`, `Langchain`, `LLM`等的开发工作"
             # - icon: "fa fa-plane"
             #   colorBg: "#CD3700"
@@ -334,16 +345,16 @@ contents:
             #   colorBg: "gold"
             #   date: "2023年"
             #   content: "1"
-            - date: "2022年"
-            - date: "2021年"
+            - date: "2022"
+            - date: "2021"
             - icon: "fa fa-graduation-cap"
               colorBg: "#CD3700"
-              date: "2021年8月26日"
-              content: "进入[天津大学](tju.edu.cn), 开始在[智能与计算学部](cic.tju.edu.cn)软件工程专业学习"
-            - date: "更早"
+              date: "2021-08-26"
+              content: "进入[天津大学](https://tju.edu.cn), 开始在[智能与计算学部](https://cic.tju.edu.cn)软件工程专业学习"
+            - date: "Earlier"
             - icon: "fa-solid fa-baby-carriage"
               colorBg: "blue"
-              date: "2003年9月"
+              date: "2003-09-24"
               content: "出生, Born in 2003"
 
 # 网站推送设置
