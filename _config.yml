@@ -226,11 +226,12 @@ contents:
         # 已了解的技能
         # Learned skills
         skillDone075:
-            - 
+            - Computer Vision
         # 正解锁的技能
         # Skills being unlocked
         skillDone050:
-            - swift
+            - fitness 
+            
         # 社交信息
         # Social information
         social:
@@ -249,20 +250,26 @@ contents:
               # 图标背景
               # Background color of icon
               colorBg: "btn-default"
-            - title: "Email"
+            - title: "Personal Email"
               url: mailto:me@alanzeng.com
               intro: "My Email."
               icon: "fa fa-envelope"
               colorBg: "btn-success"
-            - title: "Twitter"
+            - title: "Work Email"
+              url: mailto:alanzeng@tju.edu.cn
+              intro: "My Email."
+              icon: "fa fa-envelope"
+              colorBg: "btn-success"
+            - title: "X (twitter)"
               url: "http://www.twitter.com/Alan92423"
-              intro: "My Twitter account."
+              intro: "My X (Twitter) account."
               icon: "fa-brands fa-twitter"
+              colorBg: "black"
             - title: "Instagram"
               url: "https://www.instagram.com/alan42326/"
               intro: "My Instagram."
               icon: "fa-brands fa-instagram"
-              colorBg: "btn-danger"
+              colorBg: "#d62976"
             - title: "Zhihu"
               url: "https://www.zhihu.com/people/fan-yi-li-58"
               intro: "我的知乎"
@@ -294,8 +301,12 @@ contents:
               date: "刚才"
               # 内容（支持Markdown语法）
               # Content(support Markdown syntax)
-              content: "Coding, and enjoying life. <br> 正在编写代码... 以及享受生活"
+              content: "Coding, and enjoying life. <br> 正在编写代码, 健身... 以及享受生活"
             - date: "2024"
+            - icon: "fa-solid fa-dumbbell"
+              colorBg: "#FE9A2E"
+              date: "2024-12-01"
+              content: "开始健身, 每周至少3次"
             - icon: "fa-regular fa-plane"
               colorBg: "#FF5733"
               date: "2024-10-29"
