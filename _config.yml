@@ -401,3 +401,6 @@ widgets:
     - recent_posts
     - links
     - recent_comments
+
+
+rss: /atom.xml
