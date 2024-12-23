@@ -170,6 +170,10 @@ contents:
           # 图标
           # Shape of icon
           icon: "fa fa-globe"
+        - title: "RSS"
+          url: "/atom.xml"
+          intro: "RSS"
+          icon: "fa fa-rss"
         - title: "Alan's AI ChatBot"
           url: "https://chat.anovare.com"
           intro: "Alan的AI聊天机器人"
