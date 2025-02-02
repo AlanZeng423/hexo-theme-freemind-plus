@@ -175,8 +175,8 @@ contents:
           intro: "RSS"
           icon: "fa fa-rss"
         - title: "Alan's AI ChatBot"
-          url: "https://chat.anovare.com"
-          intro: "Alan的AI聊天机器人"
+          url: "https://chat.9423.net"
+          intro: "Alan's AI Agent"
           icon: "fa fa-robot"
         - title: "Personal Email"
           url: mailto:me@alanzeng.com
